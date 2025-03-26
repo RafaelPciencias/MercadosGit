@@ -1,3 +1,8 @@
-# Prueba Streamlit
+#Prueba Streamlit
+#import streamlit as st
 
-print("esto es prueba")
+#st.write("Hello Wolrd")
+
+print("hola bebe")
+
+print("xd")
